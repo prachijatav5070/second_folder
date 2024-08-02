@@ -2,4 +2,10 @@
 using namespace std;
 int main(){
 	 
-	cout << "Enter you name" 
+	
+
+	cout << "Enter you name"
+
+		cin >> char 
+
+	
